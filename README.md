@@ -1,2 +1,2 @@
-# TelePhantom Website
-[https://telephantom.github.io](https://telephantom.github.io)
+# TelePreview Website
+[https://nus-lins-lab.github.io/telepreview/](https://nus-lins-lab.github.io/telepreview/)
